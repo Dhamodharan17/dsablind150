@@ -2,7 +2,7 @@
 - boolean array (visited ) + output arraylist
 - call recursion for all vertices(disconnected component)
 - In recursion call , make it visted & add to output array (R)
-- call its neighbour ( check visited or not)
+- call recusion its neighbour ( check visited or not)
 ```
 class Solution {
     // Function to return a list containing the DFS traversal of the graph.
@@ -37,3 +37,6 @@ class Solution {
     }
 }
 ```
+## BFS of a Graph
+
+
