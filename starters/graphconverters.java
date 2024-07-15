@@ -13,7 +13,7 @@ class Solution {
         }
     }
 
-  //type 1 - conversion
+  //type 1 - conversion 0-List.of([][][])
  static int spanningTree(int V, int E, List<List<int[]>> adj) {
          
     List<Pair> edges = new ArrayList<>();
