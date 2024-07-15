@@ -14,6 +14,7 @@ class Solution {
     }
 
   //type 1 - conversion 0-List.of([][][])
+   // for disjoint sets - individual edges
  static int spanningTree(int V, int E, List<List<int[]>> adj) {
          
     List<Pair> edges = new ArrayList<>();
